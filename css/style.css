@@ -1,0 +1,31 @@
+.header {
+    margin-left: 50%;
+}
+
+.header a {
+    margin: 20px;
+}
+
+.logo {
+    margin-left: 10%;
+}
+
+.items {
+    margin-left: 51%;
+}
+
+.items a {
+    margin-left: 40px;
+}
+
+.banner img {
+    width: 100%;
+}
+
+.map {
+    position: absolute;
+}
+
+.address {
+    position: absolute; left: 40%;
+}
